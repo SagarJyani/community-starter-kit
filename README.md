@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot is an open source framework that allows you to create GitHub apps to automate your GitHub workflow. Probot is also an example of a great community - be sure to stop by and check them out.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+If you've landed in this GitHub repository and are looking to start building your own Probot App, look no further than probot.github.io! The Probot website contains our extensive getting started documentation and will guide you through the set up process.
+
+This repository hosts the code for the npm Probot package which is what all Probot Apps run on. Most folks who land in this repository are likely looking to get started building their own app.
 
 ## Getting started
 
